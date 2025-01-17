@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhoenixDownloader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f728e844524f8405201a27d206e6be1696fe9a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bf8412ce4d5d3c03331ae7203c5bfd206293a94")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhoenixDownloader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhoenixDownloader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

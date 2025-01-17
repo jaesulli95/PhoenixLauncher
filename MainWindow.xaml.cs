@@ -38,5 +38,15 @@ namespace PhoenixDownloader
         {
             WindowState = WindowState.Minimized;
         }
-    }
+
+		private void BtnPlayDownloadUpdate_Click(object sender, RoutedEventArgs e)
+		{
+            //TODO::Code to check for updates or anything of the sorts.
+		}
+
+		private void BtnSettings_Click(object sender, RoutedEventArgs e)
+		{
+
+		}
+	}
 }

@@ -40,3 +40,6 @@ D:\PhoenixLauncher\obj\Debug\net8.0-windows\PhoenixDownloader.dll
 D:\PhoenixLauncher\obj\Debug\net8.0-windows\PhoenixDownloader.genruntimeconfig.cache
 D:\PhoenixLauncher\obj\Debug\net8.0-windows\ref\PhoenixDownloader.dll
 D:\PhoenixLauncher\obj\Debug\net8.0-windows\PhoenixDownloader_Content.g.cs
+D:\PhoenixLauncher\obj\Debug\net8.0-windows\Controls\GameControl.g.cs
+D:\PhoenixLauncher\obj\Debug\net8.0-windows\Controls\GameControl.baml
+D:\PhoenixLauncher\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
