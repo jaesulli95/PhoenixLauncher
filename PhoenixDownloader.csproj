@@ -6,19 +6,34 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UseWPF>true</UseWPF>
+    <ApplicationIcon>Resources\Icons\phoenix_launcher.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <None Remove="49680342.jpeg" />
     <None Remove="aelyannah_tpc.jpg" />
     <None Remove="bg.jpg" />
+    <None Remove="ButtonNormal.png" />
     <None Remove="Nier_bg_3.png" />
+    <None Remove="Underline.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="aelyannah_tpc.jpg" />
+    <Content Include="Resources\Icons\phoenix_launcher.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Resource Include="bg.jpg" />
+    <Resource Include="ButtonNormal.png" />
     <Resource Include="Nier_bg_3.png" />
+    <Resource Include="Resources\Nier_bg_3.png" />
+    <Resource Include="Underline.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\Buttons\" />
+    <Folder Include="Resources\Backgrounds\" />
+    <Folder Include="Resources\Textures\" />
   </ItemGroup>
 
 </Project>

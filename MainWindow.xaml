@@ -5,13 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PhoenixDownloader"
         mc:Ignorable="d"
-        Title="Phoenix-Launcher" Height="720" Width="1280" ResizeMode="NoResize" WindowStyle="None" AllowsTransparency="True" Background="{x:Null}">
+        Title="Phoenix-Launcher" Height="900" Width="1600" ResizeMode="NoResize" WindowStyle="None" AllowsTransparency="True" Background="{x:Null}">
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="/Nier_bg_3.png"/>
+            <ImageBrush ImageSource="/Resources/Nier_bg_3.png"/>
         </Grid.Background>
         <Grid.RowDefinitions>
-            <RowDefinition Height="35"/>
+            <RowDefinition Height="50"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
 
@@ -20,12 +20,16 @@
                 <ColumnDefinition Width="300"/>
                 <ColumnDefinition/>
             </Grid.ColumnDefinitions>
-            <TextBlock x:Name="TxtTitle" 
-                    Text="Phoenix-Launcher" 
+            <StackPanel Margin="10,0,0,0" 
+                        Orientation="Horizontal" 
+                        VerticalAlignment="Center">
+                <Image x:Name="ImgIco" Source="/Resources/Icons/phoenix.png" Stretch="Fill"/>
+                <TextBlock x:Name="TxtTitle" 
+                    Text="Phoenix Games" 
                     Foreground="White" 
                     FontSize="24" 
-                    VerticalAlignment="Center" 
-                    Margin="10,0,0,0"/>
+                    Width="290" Margin="10,0,0,0"/>
+            </StackPanel>
             <StackPanel x:Name="StackOptions"
                     Grid.Column="1"
                     Orientation="Horizontal" 
@@ -33,23 +37,26 @@
                     Margin="0,0,15,0"
                         
                     HorizontalAlignment="Right" Width="50">
-                <Button x:Name="BtnMinimize" Width="20" 
-                        Height="20" 
+                <Button x:Name="BtnMinimize" Width="25" 
+                        Height="25" 
                         Content="-" 
-                        Click="BtnMinimize_Click"
-                        />
-                <Button Width="20"
+                        Click="BtnMinimize_Click" Foreground="White" FontSize="16">
+                    <Button.Background>
+                        <ImageBrush ImageSource="/ButtonNormal.png"/>
+                    </Button.Background>
+                </Button>
+                <Button Width="25"
                     HorizontalAlignment="Right" 
-                    Height="20" Margin="10,0,10,0" x:Name="BtnClose" Click="BtnClose_Click" Content="X"
-                        />
+                    Height="25" x:Name="BtnClose" Click="BtnClose_Click" Content="X" Foreground="White" FontSize="16">
+                    <Button.Background>
+                        <ImageBrush ImageSource="/ButtonNormal.png"/>
+                    </Button.Background>
+                </Button>
             </StackPanel>
 
+            <Image x:Name="ImgUnderline" Height="3" Width="1600" Source="/Underline.png" Grid.Row="1" Stretch="Fill" Grid.ColumnSpan="2" VerticalAlignment="Bottom"/>
+
         </Grid>
-        <Grid Grid.Row="1">
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="250"/>
-                <ColumnDefinition />
-            </Grid.ColumnDefinitions>
-        </Grid>
+
     </Grid>
 </Window>
