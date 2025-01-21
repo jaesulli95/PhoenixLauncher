@@ -43,3 +43,7 @@ D:\PhoenixLauncher\obj\Debug\net8.0-windows\PhoenixDownloader_Content.g.cs
 D:\PhoenixLauncher\obj\Debug\net8.0-windows\Controls\GameControl.g.cs
 D:\PhoenixLauncher\obj\Debug\net8.0-windows\Controls\GameControl.baml
 D:\PhoenixLauncher\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+F:\PhoenixDownloader\obj\Debug\net8.0-windows\Controls\GameControl.g.cs
+F:\PhoenixDownloader\obj\Debug\net8.0-windows\PhoenixDownloader_Content.g.cs
+F:\PhoenixDownloader\obj\Debug\net8.0-windows\Controls\GameControl.baml
+F:\PhoenixDownloader\obj\Debug\net8.0-windows\PhoenixDownloader.sourcelink.json

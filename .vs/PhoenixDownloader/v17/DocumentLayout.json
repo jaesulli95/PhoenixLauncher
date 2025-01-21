@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PhoenixLauncher\\",
+  "WorkspaceRootPath": "F:\\PhoenixDownloader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|d:\\phoenixlauncher\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|f:\\phoenixdownloader\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|d:\\phoenixlauncher\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|f:\\phoenixdownloader\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|d:\\phoenixlauncher\\controls\\gamecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:controls\\gamecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|f:\\phoenixdownloader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|d:\\phoenixlauncher\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|f:\\phoenixdownloader\\controls\\gamecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:controls\\gamecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,35 +25,30 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 222,
+          "DockedWidth": 180,
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\PhoenixDownloader\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "F:\\PhoenixDownloader\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:02:49.371Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\PhoenixLauncher\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "D:\\PhoenixLauncher\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T00:02:49.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\PhoenixLauncher\\MainWindow.xaml",
+              "DocumentMoniker": "F:\\PhoenixDownloader\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\PhoenixLauncher\\MainWindow.xaml",
+              "ToolTip": "F:\\PhoenixDownloader\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-17T03:30:12.338Z",
               "EditorCaption": ""
@@ -61,40 +56,27 @@
           ]
         },
         {
-          "DockedWidth": 178,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 220,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameControl.xaml",
-              "DocumentMoniker": "D:\\PhoenixLauncher\\Controls\\GameControl.xaml",
+              "DocumentMoniker": "F:\\PhoenixDownloader\\Controls\\GameControl.xaml",
               "RelativeDocumentMoniker": "Controls\\GameControl.xaml",
-              "ToolTip": "D:\\PhoenixLauncher\\Controls\\GameControl.xaml",
+              "ToolTip": "F:\\PhoenixDownloader\\Controls\\GameControl.xaml",
               "RelativeToolTip": "Controls\\GameControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-17T16:31:12.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-17T16:31:12.095Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\PhoenixLauncher\\MainWindow.xaml",
+              "DocumentMoniker": "F:\\PhoenixDownloader\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "D:\\PhoenixLauncher\\MainWindow.xaml",
+              "ToolTip": "F:\\PhoenixDownloader\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-17T00:02:49.817Z",

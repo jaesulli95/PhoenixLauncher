@@ -15,6 +15,7 @@
     <None Remove="bg.jpg" />
     <None Remove="ButtonNormal.png" />
     <None Remove="Nier_bg_3.png" />
+    <None Remove="Tyrande.jpg" />
     <None Remove="Underline.png" />
   </ItemGroup>
 
@@ -27,6 +28,7 @@
     <Resource Include="ButtonNormal.png" />
     <Resource Include="Nier_bg_3.png" />
     <Resource Include="Resources\Nier_bg_3.png" />
+    <Resource Include="Tyrande.jpg" />
     <Resource Include="Underline.png" />
   </ItemGroup>
 

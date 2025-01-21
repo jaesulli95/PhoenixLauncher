@@ -1,4 +1,3 @@
-
-/.vs
-/.vs/PhoenixDownloader
-/obj
+.vs\*
+bin\*
+obj\*

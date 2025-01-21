@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\PhoenixLauncher\obj\Debug\net8.0-windows\
+F:\PhoenixDownloader\obj\Debug\net8.0-windows\
 PhoenixDownloader
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\PhoenixLauncher\App.xaml
+F:\PhoenixDownloader\App.xaml
 275500642
 11917728458
 551685333
-198-556154604
+198-1431420039
 Controls\GameControl.xaml;MainWindow.xaml;
 
 False
