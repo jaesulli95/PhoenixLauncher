@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "F:\\PhoenixDownloader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|f:\\phoenixdownloader\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|f:\\phoenixdownloader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|f:\\phoenixdownloader\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|f:\\phoenixdownloader\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|f:\\phoenixdownloader\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53CB3F7A-DF37-4129-9EE9-9558AB0E4BD1}|PhoenixDownloader.csproj|f:\\phoenixdownloader\\controls\\gamecontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -26,29 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 180,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "F:\\PhoenixDownloader\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "F:\\PhoenixDownloader\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T00:02:49.371Z"
+              "WhenOpened": "2025-01-17T00:02:49.371Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "F:\\PhoenixDownloader\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "F:\\PhoenixDownloader\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAALAAAAAAAAAA==",
+              "ToolTip": "F:\\PhoenixDownloader\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwC8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-17T03:30:12.338Z",
               "EditorCaption": ""
@@ -76,8 +77,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "F:\\PhoenixDownloader\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "F:\\PhoenixDownloader\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "ToolTip": "F:\\PhoenixDownloader\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-17T00:02:49.817Z",
               "EditorCaption": ""

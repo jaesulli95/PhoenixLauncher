@@ -12,7 +12,6 @@
   <ItemGroup>
     <None Remove="49680342.jpeg" />
     <None Remove="aelyannah_tpc.jpg" />
-    <None Remove="bg.jpg" />
     <None Remove="ButtonNormal.png" />
     <None Remove="Nier_bg_3.png" />
     <None Remove="Tyrande.jpg" />
@@ -24,18 +23,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="bg.jpg" />
-    <Resource Include="ButtonNormal.png" />
-    <Resource Include="Nier_bg_3.png" />
-    <Resource Include="Resources\Nier_bg_3.png" />
-    <Resource Include="Tyrande.jpg" />
-    <Resource Include="Underline.png" />
+    <Folder Include="Resources\Backgrounds\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Resources\Buttons\" />
-    <Folder Include="Resources\Backgrounds\" />
-    <Folder Include="Resources\Textures\" />
+    <Resource Include="ButtonNormal.png" />
+    <Resource Include="Tyrande.jpg" />
   </ItemGroup>
 
 </Project>
